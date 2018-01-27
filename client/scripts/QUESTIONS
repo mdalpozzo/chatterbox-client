@@ -1,0 +1,9 @@
+INIT
+  what is init doing (same as $(document).ready(){})
+  how to construct a promise
+
+how to make an async call without callbacks
+  when we fetch messages it takes a delay to receive messages
+  data/messages/ajax object is return with success?
+  how do we wait for data to finish being received/loading before moving on to other functions/tasks (AKA promises --- .then, .done, ??????)
+
